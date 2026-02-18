@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Pedidos360.csproj": {}
+    "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Pedidos360.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Pedidos360.csproj": {
+    "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Pedidos360.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Pedidos360.csproj",
+        "projectUniqueName": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Pedidos360.csproj",
         "projectName": "Pedidos360",
-        "projectPath": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Pedidos360.csproj",
+        "projectPath": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Pedidos360.csproj",
         "packagesPath": "C:\\Users\\mildr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\obj\\",
+        "outputPath": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

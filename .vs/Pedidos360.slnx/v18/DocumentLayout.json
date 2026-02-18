@@ -1,117 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\",
+  "WorkspaceRootPath": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\models\\tclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\models\\tclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:models\\tclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\clientes\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\clientes\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\clientes\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\usuarios\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\usuarios\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\usuarios\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\usuarios\\usuarios_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\usuarios\\usuarios_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\usuarios\\usuarios_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\clientes\\clientes_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\clientes\\clientes_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\clientes\\clientes_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\clientes\\clientes_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\clientes\\clientes_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\clientes\\clientes_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\clientes\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\clientes\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\clientes\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\models\\tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\models\\tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:models\\tusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\models\\troles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\models\\troles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:models\\troles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\models\\tproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\models\\tproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:models\\tproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\productos\\productos_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\productos\\productos_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\productos\\productos_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\productos\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\productos\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\productos\\productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\productos\\productos_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\productos\\productos_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\productos\\productos_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\productos\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\productos\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\productos\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\usuarios\\usuarios_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\usuarios\\usuarios_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\usuarios\\usuarios_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\usuarios\\usuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\usuarios\\usuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\usuarios\\usuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\select_company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\select_company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\select_company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\security\\select_company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\security\\select_company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\security\\select_company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|c:\\users\\mildr\\desktop\\ingenieria en sistemas\\p\\pedidos360-grupo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7D5EF995-43D2-3951-2126-EF6079B27D92}|Pedidos360.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -128,9 +128,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TClientes.cs",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Models\\TClientes.cs",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Models\\TClientes.cs",
               "RelativeDocumentMoniker": "Models\\TClientes.cs",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Models\\TClientes.cs",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Models\\TClientes.cs",
               "RelativeToolTip": "Models\\TClientes.cs",
               "ViewState": "AgIAAJUAAAAAAAAAAAASwLAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,217 +141,201 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Controllers\\ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "Controllers\\ProductosController.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAwwGUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T00:15:36.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T00:15:36.416Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "TUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Models\\TUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Models\\TUsuarios.cs",
               "RelativeDocumentMoniker": "Models\\TUsuarios.cs",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Models\\TUsuarios.cs",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Models\\TUsuarios.cs",
               "RelativeToolTip": "Models\\TUsuarios.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T22:47:55.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T22:47:55.631Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Clientes.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Clientes\\Clientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Clientes\\Clientes.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Clientes.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Clientes\\Clientes.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Clientes\\Clientes.cshtml",
               "RelativeToolTip": "Views\\Clientes\\Clientes.cshtml",
               "ViewState": "AgIAAD4AAAAAAAAAAAAcwFAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T16:48:22.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T16:48:22.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Controllers\\UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "Controllers\\UsuariosController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwJUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T16:54:06.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T16:54:06.203Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Controllers\\ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "Controllers\\ClientesController.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAA4wIYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T03:00:47.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T03:00:47.026Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Usuarios_Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Usuarios\\Usuarios_Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Usuarios\\Usuarios_Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuarios\\Usuarios_Index.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Usuarios\\Usuarios_Index.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Usuarios\\Usuarios_Index.cshtml",
               "RelativeToolTip": "Views\\Usuarios\\Usuarios_Index.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T03:40:40.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T03:40:40.147Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "TProductos.cs",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Models\\TProductos.cs",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Models\\TProductos.cs",
               "RelativeDocumentMoniker": "Models\\TProductos.cs",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Models\\TProductos.cs",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Models\\TProductos.cs",
               "RelativeToolTip": "Models\\TProductos.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAowIcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T00:17:25.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T00:17:25.173Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Usuarios.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Usuarios\\Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Usuarios\\Usuarios.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuarios\\Usuarios.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Usuarios\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Usuarios\\Usuarios.cshtml",
               "RelativeToolTip": "Views\\Usuarios\\Usuarios.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T03:40:45.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T03:40:45.3Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Productos_Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Productos\\Productos_Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Productos\\Productos_Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Productos_Index.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Productos\\Productos_Index.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Productos\\Productos_Index.cshtml",
               "RelativeToolTip": "Views\\Productos\\Productos_Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAwwBQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T00:41:23.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T00:41:23.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T00:43:56.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T00:43:56.084Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Clientes_Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Clientes\\Clientes_Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Clientes\\Clientes_Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Clientes_Index.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Clientes\\Clientes_Index.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Clientes\\Clientes_Index.cshtml",
               "RelativeToolTip": "Views\\Clientes\\Clientes_Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T16:48:23.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T16:48:23.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Productos_Index.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Productos\\Productos_Index.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Productos\\Productos_Index.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Productos\\Productos_Index.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Productos\\Productos_Index.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Productos\\Productos_Index.js",
               "RelativeToolTip": "wwwroot\\js\\Productos\\Productos_Index.js",
               "ViewState": "AgIAAJIAAAAAAAAAAAAgwJ8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-18T02:17:30.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T02:17:30.243Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Clientes_Index.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Clientes\\Clientes_Index.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Clientes\\Clientes_Index.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Clientes\\Clientes_Index.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Clientes\\Clientes_Index.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Clientes\\Clientes_Index.js",
               "RelativeToolTip": "wwwroot\\js\\Clientes\\Clientes_Index.js",
               "ViewState": "AgIAAL4AAAAAAAAAAAAcwNQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-18T03:20:19.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T03:20:19.845Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAE4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T16:55:33.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T16:55:33.36Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Clientes.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Clientes\\Clientes.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Clientes\\Clientes.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Clientes\\Clientes.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Clientes\\Clientes.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Clientes\\Clientes.js",
               "RelativeToolTip": "wwwroot\\js\\Clientes\\Clientes.js",
               "ViewState": "AgIAANYAAAAAAAAAAAAQwGwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-18T03:20:20.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T03:20:20.629Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Productos.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Productos\\Productos.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Productos\\Productos.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Productos.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Productos\\Productos.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Productos\\Productos.cshtml",
               "RelativeToolTip": "Views\\Productos\\Productos.cshtml",
               "ViewState": "AgIAADoAAAAAAAAAAAAwwFIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T00:41:51.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T00:41:51.488Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAACkAAAAAAAAAAAAAADQAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -361,35 +345,33 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "TRoles.cs",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Models\\TRoles.cs",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Models\\TRoles.cs",
               "RelativeDocumentMoniker": "Models\\TRoles.cs",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Models\\TRoles.cs",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Models\\TRoles.cs",
               "RelativeToolTip": "Models\\TRoles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T17:13:10.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T17:13:10.597Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Productos.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Productos\\Productos.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Productos\\Productos.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Productos\\Productos.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Productos\\Productos.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Productos\\Productos.js",
               "RelativeToolTip": "wwwroot\\js\\Productos\\Productos.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-18T01:07:04.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T01:07:04.244Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Usuarios.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Usuarios\\Usuarios.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Usuarios\\Usuarios.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Usuarios\\Usuarios.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Usuarios\\Usuarios.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Usuarios\\Usuarios.js",
               "RelativeToolTip": "wwwroot\\js\\Usuarios\\Usuarios.js",
               "ViewState": "AgIAADEBAAAAAAAAAAAqwEYBAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -399,22 +381,21 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Usuarios_Index.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Usuarios\\Usuarios_Index.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Usuarios\\Usuarios_Index.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Usuarios\\Usuarios_Index.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Usuarios\\Usuarios_Index.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Usuarios\\Usuarios_Index.js",
               "RelativeToolTip": "wwwroot\\js\\Usuarios\\Usuarios_Index.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-15T16:48:36.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T16:48:36.699Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Select_Company.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Security\\Select_Company.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Security\\Select_Company.cshtml",
               "RelativeDocumentMoniker": "Views\\Security\\Select_Company.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Security\\Select_Company.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Security\\Select_Company.cshtml",
               "RelativeToolTip": "Views\\Security\\Select_Company.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAD4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -424,9 +405,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Select_Company.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Select_Company.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Select_Company.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Select_Company.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\Select_Company.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\Select_Company.js",
               "RelativeToolTip": "wwwroot\\js\\Select_Company.js",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -436,9 +417,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "SecurityController.cs",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Controllers\\SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Controllers\\SecurityController.cs",
               "RelativeDocumentMoniker": "Controllers\\SecurityController.cs",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Controllers\\SecurityController.cs",
               "RelativeToolTip": "Controllers\\SecurityController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwCMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,9 +429,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "login.js",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\login.js",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\login.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\login.js",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\wwwroot\\js\\login.js",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\wwwroot\\js\\login.js",
               "RelativeToolTip": "wwwroot\\js\\login.js",
               "ViewState": "AgIAACwAAAAAAAAAAAAQwEYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -460,9 +441,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Security\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Security\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Security\\Login.cshtml",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Views\\Security\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Views\\Security\\Login.cshtml",
               "RelativeToolTip": "Views\\Security\\Login.cshtml",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -472,9 +453,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\appsettings.json",
+              "ToolTip": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

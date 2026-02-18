@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AC3dGv61xBk=",
+  "dgSpecHash": "NXXkg34mHBM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360\\Pedidos360.csproj",
+  "projectFilePath": "C:\\Users\\mildr\\Desktop\\Ingenieria en Sistemas\\P\\Pedidos360-Grupo1\\Pedidos360.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mildr\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\mildr\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
