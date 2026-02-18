@@ -1,0 +1,99 @@
+﻿@{
+    ViewData["Title"] = "Clientes";
+}
+
+@Html.AntiForgeryToken()
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h2 class="fw-bold mb-1" id="lblTitle">Nuevo cliente</h2>
+        <p class="text-muted mb-0" id="lblSubtitle">
+            Registre un nuevo cliente para esta empresa
+        </p>
+    </div>
+
+    <div class="d-flex gap-2">
+        <a href="/Clientes/Clientes_Index" class="btn btn-outline-secondary">
+            <i class="fa-solid fa-arrow-left me-1"></i>
+            Volver
+        </a>
+
+        <button type="button" class="btn btn-primary" id="btnSave" onclick="clientes_Save()">
+            <i class="fa-solid fa-floppy-disk me-1"></i>
+            Guardar
+        </button>
+    </div>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+
+        <div class="row g-3">
+
+            <div class="col-md-4">
+                <label class="form-label">Tipo de cédula</label>
+                <select id="slctipocedula" class="form-select" autocomplete="off"></select>
+                <div class="invalid-feedback" id="err_slctipocedula"></div>
+            </div>
+
+            <div class="col-md-4">
+                <label class="form-label">Cédula</label>
+                <input id="txtcedula"
+                       class="form-control"
+                       autocomplete="off"
+                       inputmode="numeric" />
+                <div class="invalid-feedback" id="err_txtcedula"></div>
+                <small class="text-muted d-none" id="lblMascaraCedula"></small>
+            </div>
+
+            <div class="col-md-4">
+                <label class="form-label">Teléfono</label>
+                <input id="txttelefono"
+                       type="tel"
+                       class="form-control"
+                       autocomplete="tel" />
+                <div class="invalid-feedback" id="err_txttelefono"></div>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Nombre</label>
+                <input id="txtnombre"
+                       class="form-control"
+                       autocomplete="given-name" />
+                <div class="invalid-feedback" id="err_txtnombre"></div>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Apellidos</label>
+                <input id="txtapellidos"
+                       class="form-control"
+                       autocomplete="family-name" />
+                <div class="invalid-feedback" id="err_txtapellidos"></div>
+            </div>
+
+            <div class="col-md-12">
+                <label class="form-label">Correo</label>
+                <input id="txtcorreo"
+                       type="email"
+                       class="form-control"
+                       autocomplete="email" />
+                <div class="invalid-feedback" id="err_txtcorreo"></div>
+            </div>
+
+            <div class="col-md-12">
+                <label class="form-label">Dirección</label>
+                <textarea id="txtdireccion"
+                          class="form-control"
+                          rows="2"
+                          autocomplete="street-address"></textarea>
+                <div class="invalid-feedback" id="err_txtdireccion"></div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/Clientes/Clientes.js" asp-append-version="true"></script>
+}

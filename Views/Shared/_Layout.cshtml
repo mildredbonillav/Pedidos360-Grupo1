@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Pedidos360</title>
+    <script type="importmap"></script>
+
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Pedidos360.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-primary-custom border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand fw-bold text-white"
+                   asp-area="" asp-controller="Home" asp-action="Index">
+                    Pedidos360
+                </a>
+
+                <button class="navbar-toggler" type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white"
+                               asp-controller="Home" asp-action="Index">
+                                Inicio
+                            </a>
+                        </li>
+                    </ul>
+
+                    <div class="d-flex align-items-center gap-4">
+
+                        <!-- EMPRESA VISIBLE -->
+                        <div class="text-white fw-semibold">
+                            <i class="fa-solid fa-building me-1"></i>
+                            <span id="lblEmpresa"></span>
+                        </div>
+
+                        <!-- USUARIO DROPDOWN -->
+                        <div class="dropdown">
+
+                            <a class="nav-link dropdown-toggle text-white fw-semibold"
+                               href="#"
+                               role="button"
+                               data-bs-toggle="dropdown">
+
+                                <i class="fa-solid fa-user"></i>
+                                <span id="lblUserName"></span>
+                                <span class="badge bg-light text-dark ms-1" id="lblUserRole"></span>
+                            </a>
+
+                            <ul class="dropdown-menu dropdown-menu-end shadow">
+
+                                <!-- MI PERFIL -->
+                                <li>
+                                    <a class="dropdown-item text-primary-custom"
+                                       href="#"
+                                       onclick="site_goToProfile()">
+                                        <i class="fa-solid fa-id-card me-2"></i>
+                                        Mi perfil
+                                    </a>
+                                </li>
+
+                                <li><hr class="dropdown-divider"></li>
+
+                                <!-- CAMBIAR COMPAÑÍA -->
+                                <li id="liChangeCompany">
+                                    <a class="dropdown-item text-primary-custom"
+                                       href="#"
+                                       onclick="site_changeCompany()">
+                                        <i class="fa-solid fa-repeat me-2"></i>
+                                        Cambiar compañía
+                                    </a>
+                                </li>
+
+                                <li><hr class="dropdown-divider"></li>
+
+                                <!-- CERRAR SESIÓN -->
+                                <li>
+                                    <a class="dropdown-item text-danger"
+                                       href="#"
+                                       onclick="site_logout()">
+                                        <i class="fa-solid fa-right-from-bracket me-2"></i>
+                                        Cerrar sesión
+                                    </a>
+                                </li>
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </nav>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2026 - Pedidos360 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

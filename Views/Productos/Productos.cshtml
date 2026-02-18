@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Productos";
+}
+
+@Html.AntiForgeryToken()
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h2 class="fw-bold mb-1" id="lblTitle">Nuevo producto</h2>
+        <p class="text-muted mb-0" id="lblSubtitle">
+            Registre un nuevo producto para esta empresa
+        </p>
+    </div>
+
+    <div class="d-flex gap-2">
+        <a href="/Productos/Productos_Index" class="btn btn-outline-secondary">
+            <i class="fa-solid fa-arrow-left me-1"></i>
+            Volver
+        </a>
+
+        <button type="button" class="btn btn-primary" id="btnSave" onclick="productos_Save()">
+            <i class="fa-solid fa-floppy-disk me-1"></i>
+            Guardar
+        </button>
+    </div>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+
+        <div class="row g-3">
+
+            <div class="col-md-6">
+                <label class="form-label">Nombre</label>
+                <input id="txtnombre" class="form-control" autocomplete="off" />
+                <div class="invalid-feedback" id="err_txtnombre"></div>
+            </div>
+
+            <div class="col-md-3">
+                <label class="form-label">Precio</label>
+                <input id="txtprecio" type="number" step="0.01" class="form-control" autocomplete="off" />
+                <div class="invalid-feedback" id="err_txtprecio"></div>
+            </div>
+
+            <div class="col-md-3">
+                <label class="form-label">Stock</label>
+                <input id="txtstock" type="number" class="form-control" autocomplete="off" />
+                <div class="invalid-feedback" id="err_txtstock"></div>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Categoría</label>
+                <select id="slccategoria" class="form-select" autocomplete="off"></select>
+                <div class="invalid-feedback" id="err_slccategoria"></div>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Tipo de impuesto</label>
+                <select id="slctipo_impuesto" class="form-select" autocomplete="off"></select>
+                <div class="invalid-feedback" id="err_slctipo_impuesto"></div>
+            </div>
+
+            <!-- IMAGEN -->
+            <div class="col-md-6">
+                <label class="form-label">Imagen</label>
+                <input id="fileimagen" type="file" class="form-control" accept="image/*" />
+                <div class="invalid-feedback" id="err_fileimagen"></div>
+
+                <!-- Mensaje discreto para edición -->
+                <small id="lblKeepImage" class="text-muted d-none">
+                    Si no selecciona una nueva imagen, se mantendrá la actual.
+                </small>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Vista previa</label>
+                <div class="border rounded p-2 d-flex align-items-center justify-content-center" style="min-height: 140px;">
+                    <img id="imgPreview" class="img-fluid rounded d-none" style="max-height: 220px;" />
+                    <span id="imgEmpty" class="text-muted">Sin imagen</span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/Productos/Productos.js" asp-append-version="true"></script>
+}

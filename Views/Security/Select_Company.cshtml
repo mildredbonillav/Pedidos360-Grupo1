@@ -1,0 +1,66 @@
+﻿@{
+    Layout = null;
+    ViewData["Title"] = "Seleccionar empresa";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Pedidos360</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+
+    <div class="container-fluid vh-100">
+        <div class="row h-100">
+
+            <!-- PANEL IZQUIERDO -->
+            <div class="col-md-6 d-none d-md-flex
+             justify-content-center align-items-center bg-primary-custom">
+
+                <img src="~/img/logo.png"
+                     alt="Logo"
+                     class="img-fluid"
+                     style="max-width:500px;" />
+            </div>
+
+            <!-- PANEL DERECHO -->
+            <div class="col-12 col-md-6 d-flex
+             justify-content-center align-items-center">
+
+                <div style="width:100%; max-width:420px;">
+
+                    <h3 class="fw-bold mb-2">
+                        Seleccione una empresa
+                    </h3>
+
+                    <p class="text-muted mb-4">
+                        Tiene acceso a más de una empresa
+                    </p>
+
+                    <!-- LISTA EMPRESAS -->
+                    <div id="lstEmpresas" class="list-group mb-3">
+                        <!-- Se carga por JS -->
+                    </div>
+
+                    <button class="btn btn-secondary w-100"
+                            onclick="cerrarSesion()">
+                        Cerrar sesión
+                    </button>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/js/Select_Company.js" asp-append-version="true"></script>
+
+</body>
+</html>

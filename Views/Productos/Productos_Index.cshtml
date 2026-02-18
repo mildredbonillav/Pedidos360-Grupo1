@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Productos";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h2 class="fw-bold mb-1">Productos</h2>
+        <p class="text-muted mb-0">
+            Administración de productos de esta empresa
+        </p>
+    </div>
+
+    <div class="d-flex gap-2">
+        <a onclick="productos_index_Productos_Insert_Redirect()" class="btn btn-primary">
+            <i class="fa-solid fa-plus me-1"></i>
+            Nuevo producto
+        </a>
+    </div>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+
+        <div class="table-responsive">
+            <table id="tblProductos"
+                   class="table table-hover align-middle"
+                   data-pagination="true"
+                   data-page-size="10"
+                   data-locale="es-CR"
+                   data-filter-control="true">
+            </table>
+        </div>
+
+        <div id="emptyState" class="text-center py-5 d-none">
+            <i class="fa-solid fa-box-open fa-2x text-muted mb-3"></i>
+            <p class="text-muted mb-0">
+                No hay productos registrados en esta empresa
+            </p>
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+
+    <!-- Bootstrap Table (solo para esta vista) -->
+    <script src="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.js"></script>
+    <script src="https://unpkg.com/bootstrap-table@1.22.1/dist/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+    <script src="https://unpkg.com/bootstrap-table@1.22.1/dist/locale/bootstrap-table-es-CR.min.js"></script>
+
+    <!-- Tu JS -->
+    <script src="~/js/Productos/Productos_Index.js" asp-append-version="true"></script>
+
+}
